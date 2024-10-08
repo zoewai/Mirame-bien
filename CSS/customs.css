@@ -1,0 +1,6 @@
+h2 a:link, h2 a:active, h2 a:visited {
+	background-color: white;
+	color: #1c193d;
+	padding: 10px;
+	border-radius: 4px;
+}
